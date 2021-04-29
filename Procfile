@@ -1,0 +1,1 @@
+web: gunicorn MA 705_Project_Dash1:server
